@@ -31,7 +31,7 @@ $f(x) = ax + b$
 ### Qual reta utilizar?
 
 - A reta que mais está próxima aos dados, a que tenha o menor <b>erro médio quadrático</b>
-\* erro médio quadrático: calcula-se as <u>distâncias</u> entre o ponto desejado e a reta, quanto maior a distância, maior o erro.
+- \* erro médio quadrático: calcula-se as <u>distâncias</u> entre o ponto desejado e a reta, quanto maior a distância, maior o erro.
 
 ### Plotando
 
