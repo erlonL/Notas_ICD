@@ -25,8 +25,8 @@ plt.show()
 
 $f(x) = ax + b$
 
-a = inclinação
-b = deslocamento
+- a = inclinação
+- b = deslocamento
 
 ### Qual reta utilizar?
 
